@@ -1,3 +1,2 @@
-# E-Conclave-22-Event-Registration
-
-The Online Registration portal for E-Conclave'22
+# E-Summit'24
+The Online Registration portal for E-Summit'24
